@@ -11,7 +11,7 @@
 {{=« »=}}
 «! the '&' below prevents HTML escaping. »
 \title{«& title»}
-\author{Olivier Auverlot and St\'ephane Ducasse}
+\author{«& authors»}
 
 \begin{titlingpage}
     \maketitle
